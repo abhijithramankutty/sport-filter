@@ -1,5 +1,6 @@
 import './App.css';
-import FilterableProductTable from "./component/class/FilterableProductTable";
+/*import FilterableProductTable from "./component/class/FilterableProductTable";*/
+import FilterableProductTable from "./component/function/FilterableProductTable";
 
 const PRODUCTS = [
     {category: 'Sporting Goods', price: '$49.99', stocked: true, name: 'Football'},
